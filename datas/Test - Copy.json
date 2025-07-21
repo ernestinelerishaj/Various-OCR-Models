@@ -1,0 +1,602 @@
+[
+    {
+        "context": "Tax Invoice Supplier: Payne Inc GSTIN: MUKP86147N1ZZ Details of Buyer (Bill To): Noble Inc GSTIN: QKAU57434P1ZL Invoice Number: 59-29/JH/27 Invoice Date: Aug 13, 2023 Invoice Amount: INR 32,789.42 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_59-29/JH/27_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "59-29/JH/27",
+                        "answer_start": 128
+                    }
+                ]
+            },
+            {
+                "id": "QA_59-29/JH/27_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Aug 13, 2023",
+                        "answer_start": 154
+                    }
+                ]
+            },
+            {
+                "id": "QA_59-29/JH/27_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "32,789.42",
+                        "answer_start": 187
+                    }
+                ]
+            },
+            {
+                "id": "QA_59-29/JH/27_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "QKAU57434P1ZL",
+                        "answer_start": 98
+                    }
+                ]
+            },
+            {
+                "id": "QA_59-29/JH/27_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "MUKP86147N1ZZ",
+                        "answer_start": 39
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Hooper-King GSTIN: VULS12999N1ZZ Details of Buyer (Bill To): Gonzalez-Bell GSTIN: DXIS56162P1ZL Invoice Number: 21-69/JH/87 Invoice Date: Jan 06, 2020 Invoice Amount: INR 37,777.81 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_21-69/JH/87_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "21-69/JH/87",
+                        "answer_start": 134
+                    }
+                ]
+            },
+            {
+                "id": "QA_21-69/JH/87_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Jan 06, 2020",
+                        "answer_start": 160
+                    }
+                ]
+            },
+            {
+                "id": "QA_21-69/JH/87_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "37,777.81",
+                        "answer_start": 193
+                    }
+                ]
+            },
+            {
+                "id": "QA_21-69/JH/87_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "DXIS56162P1ZL",
+                        "answer_start": 104
+                    }
+                ]
+            },
+            {
+                "id": "QA_21-69/JH/87_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "VULS12999N1ZZ",
+                        "answer_start": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Allen Group GSTIN: XARR23763N1ZZ Details of Buyer (Bill To): Gomez-Nunez GSTIN: YDKN86315P1ZL Invoice Number: 86-16/JH/40 Invoice Date: Oct 15, 2019 Invoice Amount: INR 13,441.46 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_86-16/JH/40_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "86-16/JH/40",
+                        "answer_start": 132
+                    }
+                ]
+            },
+            {
+                "id": "QA_86-16/JH/40_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Oct 15, 2019",
+                        "answer_start": 158
+                    }
+                ]
+            },
+            {
+                "id": "QA_86-16/JH/40_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "13,441.46",
+                        "answer_start": 191
+                    }
+                ]
+            },
+            {
+                "id": "QA_86-16/JH/40_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "YDKN86315P1ZL",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "QA_86-16/JH/40_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "XARR23763N1ZZ",
+                        "answer_start": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Trevino-Mitchell GSTIN: JWOQ16575N1ZZ Details of Buyer (Bill To): May-Sandoval GSTIN: AZYY75005P1ZL Invoice Number: 19-82/JH/66 Invoice Date: Oct 20, 2023 Invoice Amount: INR 24,516.35 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_19-82/JH/66_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "19-82/JH/66",
+                        "answer_start": 138
+                    }
+                ]
+            },
+            {
+                "id": "QA_19-82/JH/66_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Oct 20, 2023",
+                        "answer_start": 164
+                    }
+                ]
+            },
+            {
+                "id": "QA_19-82/JH/66_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "24,516.35",
+                        "answer_start": 197
+                    }
+                ]
+            },
+            {
+                "id": "QA_19-82/JH/66_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "AZYY75005P1ZL",
+                        "answer_start": 108
+                    }
+                ]
+            },
+            {
+                "id": "QA_19-82/JH/66_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "JWOQ16575N1ZZ",
+                        "answer_start": 46
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Nelson-Ford GSTIN: UGZP44714N1ZZ Details of Buyer (Bill To): James-Mayer GSTIN: DYFZ44312P1ZL Invoice Number: 69-16/JH/95 Invoice Date: Apr 14, 2020 Invoice Amount: INR 34,757.67 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_69-16/JH/95_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "69-16/JH/95",
+                        "answer_start": 132
+                    }
+                ]
+            },
+            {
+                "id": "QA_69-16/JH/95_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Apr 14, 2020",
+                        "answer_start": 158
+                    }
+                ]
+            },
+            {
+                "id": "QA_69-16/JH/95_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "34,757.67",
+                        "answer_start": 191
+                    }
+                ]
+            },
+            {
+                "id": "QA_69-16/JH/95_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "DYFZ44312P1ZL",
+                        "answer_start": 102
+                    }
+                ]
+            },
+            {
+                "id": "QA_69-16/JH/95_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "UGZP44714N1ZZ",
+                        "answer_start": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Hall and Sons GSTIN: WUUS02198N1ZZ Details of Buyer (Bill To): Moore and Sons GSTIN: IEEC87268P1ZL Invoice Number: 68-44/JH/84 Invoice Date: Jun 19, 2023 Invoice Amount: INR 41,554.28 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_68-44/JH/84_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "68-44/JH/84",
+                        "answer_start": 137
+                    }
+                ]
+            },
+            {
+                "id": "QA_68-44/JH/84_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Jun 19, 2023",
+                        "answer_start": 163
+                    }
+                ]
+            },
+            {
+                "id": "QA_68-44/JH/84_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "41,554.28",
+                        "answer_start": 196
+                    }
+                ]
+            },
+            {
+                "id": "QA_68-44/JH/84_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "IEEC87268P1ZL",
+                        "answer_start": 107
+                    }
+                ]
+            },
+            {
+                "id": "QA_68-44/JH/84_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "WUUS02198N1ZZ",
+                        "answer_start": 43
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Adams-Fitzpatrick GSTIN: XQWT92718N1ZZ Details of Buyer (Bill To): Le, Brooks and Bowen GSTIN: MHTK56915P1ZL Invoice Number: 35-64/JH/20 Invoice Date: May 20, 2020 Invoice Amount: INR 31,918.41 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_35-64/JH/20_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "35-64/JH/20",
+                        "answer_start": 147
+                    }
+                ]
+            },
+            {
+                "id": "QA_35-64/JH/20_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "May 20, 2020",
+                        "answer_start": 173
+                    }
+                ]
+            },
+            {
+                "id": "QA_35-64/JH/20_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "31,918.41",
+                        "answer_start": 206
+                    }
+                ]
+            },
+            {
+                "id": "QA_35-64/JH/20_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "MHTK56915P1ZL",
+                        "answer_start": 117
+                    }
+                ]
+            },
+            {
+                "id": "QA_35-64/JH/20_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "XQWT92718N1ZZ",
+                        "answer_start": 47
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Ward, Reese and Singh GSTIN: AELG82964N1ZZ Details of Buyer (Bill To): Wong-Gonzalez GSTIN: WNAL64455P1ZL Invoice Number: 36-67/JH/30 Invoice Date: Oct 12, 2022 Invoice Amount: INR 39,733.95 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_36-67/JH/30_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "36-67/JH/30",
+                        "answer_start": 144
+                    }
+                ]
+            },
+            {
+                "id": "QA_36-67/JH/30_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Oct 12, 2022",
+                        "answer_start": 170
+                    }
+                ]
+            },
+            {
+                "id": "QA_36-67/JH/30_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "39,733.95",
+                        "answer_start": 203
+                    }
+                ]
+            },
+            {
+                "id": "QA_36-67/JH/30_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "WNAL64455P1ZL",
+                        "answer_start": 114
+                    }
+                ]
+            },
+            {
+                "id": "QA_36-67/JH/30_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "AELG82964N1ZZ",
+                        "answer_start": 51
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Brown, Roberts and Scott GSTIN: WKTR26385N1ZZ Details of Buyer (Bill To): Cantu, Phillips and Burns GSTIN: BMQC60986P1ZL Invoice Number: 56-86/JH/57 Invoice Date: Jun 13, 2024 Invoice Amount: INR 21,524.82 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_56-86/JH/57_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "56-86/JH/57",
+                        "answer_start": 159
+                    }
+                ]
+            },
+            {
+                "id": "QA_56-86/JH/57_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Jun 13, 2024",
+                        "answer_start": 185
+                    }
+                ]
+            },
+            {
+                "id": "QA_56-86/JH/57_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "21,524.82",
+                        "answer_start": 218
+                    }
+                ]
+            },
+            {
+                "id": "QA_56-86/JH/57_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "BMQC60986P1ZL",
+                        "answer_start": 129
+                    }
+                ]
+            },
+            {
+                "id": "QA_56-86/JH/57_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "WKTR26385N1ZZ",
+                        "answer_start": 54
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tax Invoice Supplier: Wilson Group GSTIN: SPKT83183N1ZZ Details of Buyer (Bill To): Wyatt-Torres GSTIN: MUFV91064P1ZL Invoice Number: 73-77/JH/16 Invoice Date: Jul 16, 2023 Invoice Amount: INR 43,761.73 Reverse charge applicable: No",
+        "qas": [
+            {
+                "id": "QA_73-77/JH/16_01",
+                "is_impossible": false,
+                "question": "What is the invoice number?",
+                "answers": [
+                    {
+                        "text": "73-77/JH/16",
+                        "answer_start": 134
+                    }
+                ]
+            },
+            {
+                "id": "QA_73-77/JH/16_02",
+                "is_impossible": false,
+                "question": "What is the invoice date?",
+                "answers": [
+                    {
+                        "text": "Jul 16, 2023",
+                        "answer_start": 160
+                    }
+                ]
+            },
+            {
+                "id": "QA_73-77/JH/16_03",
+                "is_impossible": false,
+                "question": "What is the invoice amount?",
+                "answers": [
+                    {
+                        "text": "43,761.73",
+                        "answer_start": 193
+                    }
+                ]
+            },
+            {
+                "id": "QA_73-77/JH/16_04",
+                "is_impossible": false,
+                "question": "What is the buyer GSTIN?",
+                "answers": [
+                    {
+                        "text": "MUFV91064P1ZL",
+                        "answer_start": 104
+                    }
+                ]
+            },
+            {
+                "id": "QA_73-77/JH/16_05",
+                "is_impossible": false,
+                "question": "What is the supplier GSTIN?",
+                "answers": [
+                    {
+                        "text": "SPKT83183N1ZZ",
+                        "answer_start": 42
+                    }
+                ]
+            }
+        ]
+    }
+]
